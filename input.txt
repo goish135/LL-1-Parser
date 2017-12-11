@@ -1,0 +1,12 @@
+4
+Start / E $
+E / Prefix ( E ) / v Tail
+Prefix / f / lamda
+Tail / + E / lamda
+
+3
+S / A B c $
+A / a / lamda
+B / b / lamda
+
+0
