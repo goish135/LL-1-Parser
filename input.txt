@@ -9,4 +9,21 @@ S / A B c $
 A / a / lamda
 B / b / lamda
 
+5
+S / A C $
+C / c / lamda
+A / a B C d / B Q
+B / b B / lamda
+Q / q / lamda
+
+3
+E / Prefix ( E ) / v Tail
+Prefix / f / lamda
+Tail / + E / lamda
+
+3
+S / A B c
+A / a / lamda
+B / b / lamda
+
 0
