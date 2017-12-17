@@ -1,0 +1,89 @@
+No derive lamda
+derive lamda
+derive lamda
+derive lamda
+derive lamda
+rule:1
+No
+rule:2
+No
+rule:3
+Yes
+rule:4
+No
+rule:5
+Yes
+rule:6
+Yes
+rule:7
+No
+rule:8
+Yes
+rule:9
+No
+rule:10
+Yes
+g:0
+look here
+2
+A
+1
+look there
+j:3
+scan: C
+j:2
+scan: c
+j:3
+scan: /
+j:4
+scan: lamda
+g:0
+look here
+1
+C
+1
+look there
+j:4
+scan: $
+g:2
+look here
+3
+B
+1
+look there
+j:8
+scan: Q
+j:2
+scan: q
+j:3
+scan: /
+j:4
+scan: lamda
+g:2
+look here
+4
+Q
+1
+look there
+j:9
+scan: /
+rule1
+a b q c $ 
+rule2
+c 
+rule3
+
+rule4
+a 
+rule5
+b q 
+rule6
+
+rule7
+b 
+rule8
+
+rule9
+q 
+rule10
+
