@@ -1,0 +1,150 @@
+No derive lamda
+No derive lamda
+derive lamda
+derive lamda
+rule:1
+No
+rule:2
+No
+rule:3
+No
+rule:4
+No
+rule:5
+Yes
+rule:6
+No
+rule:7
+Yes
+rule1
+f ( v 
+rule2
+f ( 
+rule3
+v 
+rule4
+f 
+rule5
+
+rule6
++ 
+rule7
+
+No derive lamda
+derive lamda
+derive lamda
+rule:1
+No
+rule:2
+No
+rule:3
+Yes
+rule:4
+No
+rule:5
+Yes
+rule1
+a b c 
+rule2
+a 
+rule3
+
+rule4
+b 
+rule5
+
+No derive lamda
+derive lamda
+derive lamda
+derive lamda
+derive lamda
+rule:1
+No
+rule:2
+No
+rule:3
+Yes
+rule:4
+No
+rule:5
+Yes
+rule:6
+Yes
+rule:7
+No
+rule:8
+Yes
+rule:9
+No
+rule:10
+Yes
+rule1
+a b q c $ 
+rule2
+c 
+rule3
+
+rule4
+a 
+rule5
+b q 
+rule6
+
+rule7
+b 
+rule8
+
+rule9
+q 
+rule10
+
+No derive lamda
+derive lamda
+derive lamda
+rule:1
+No
+rule:2
+No
+rule:3
+No
+rule:4
+Yes
+rule:5
+No
+rule:6
+Yes
+rule1
+f ( 
+rule2
+v 
+rule3
+f 
+rule4
+
+rule5
++ 
+rule6
+
+No derive lamda
+derive lamda
+derive lamda
+rule:1
+No
+rule:2
+No
+rule:3
+Yes
+rule:4
+No
+rule:5
+Yes
+rule1
+a b c 
+rule2
+a 
+rule3
+
+rule4
+b 
+rule5
+
