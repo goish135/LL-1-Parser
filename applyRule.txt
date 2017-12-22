@@ -1,0 +1,8 @@
+修正: 
+$ $ case 先判斷到=>break,不用清
+
+error :
+最後剩一個元素 看是否都是 dollar sign($) // accept otherwise=>error
+如果中途遇到 對應不起來 // error
+
+
