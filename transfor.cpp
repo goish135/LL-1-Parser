@@ -163,7 +163,7 @@ int main()
 				fp<<"\n";
 			//fp<<'\n';
 		} 
-		
+		fp<<"\n";
 		//fp<<non_count<<'\n';
 		/*for(int i=0;i<non_count;i++)
 		{
