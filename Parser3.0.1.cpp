@@ -125,6 +125,7 @@ int main()
 			} 
 			count++;
 		}
+		cout<<'\n';
 		handle();
 		//char ch[10];
 		//cin.get();
