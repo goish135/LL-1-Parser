@@ -140,7 +140,8 @@ int main()
 		}
 		
 		fp.close();
-		string chs = filename.substr(0,5)+"++.txt";
+		int total_len = filename.length();
+		string chs = filename.substr(0,total_len-4)+"++.txt";
 		
 		fp.open(chs.c_str(), ios::out);//¶}±ÒÀÉ®×
 
