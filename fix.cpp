@@ -188,7 +188,7 @@ int main()
 			}
 			
 		} 
-		fp<<"\n";
+		fp<<"\n\n";
 		fp.close();
 		
 		freopen("CON","w",stdout);
